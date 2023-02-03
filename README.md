@@ -1,3 +1,3 @@
 # A demo project
 
-description
+A big demo project
